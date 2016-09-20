@@ -1,8 +1,8 @@
 Name: William Fujimoto
 
-Compilation and Run Successful: 1 mins 21.265 secs
+Compilation and Run: Process finished with exit code 0, Yes.
 
-Unit Test Run Successfully: 5.883 secs
+Unit Test Run: Process finished with exit code 0, Yes.
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM

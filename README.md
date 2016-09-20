@@ -1,8 +1,8 @@
-Name:
+Name: William Fujimoto
 
-Compilation and Run Successful:
+Compilation and Run Successful: 1 mins 21.265 secs
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: 5.883 secs
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
